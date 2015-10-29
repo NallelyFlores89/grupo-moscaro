@@ -1,0 +1,18 @@
+idcatalogo,nombre,imagen,ruta
+1,"BANCO DE SANGRE",catalogos/01.png,catalogo_banco_de_sangre
+2,CONSUMIBLES,catalogos/02.png,catalogo_consumibles
+3,FLEBOTOMÍA,catalogos/03.png,catalogo_flebotomia
+4,GRADILLAS,catalogos/04.png,catalogo_gradillas
+5,HEMATOLOGÍA,catalogos/05.png,catalogo_hematologia
+6,"INSTRUMENTOS Y EQUIPOS",catalogos/06.png,catalogo_instrumentos_y_equipos
+7,MICRO-PIPETAS,catalogos/07.png,catalogo_micro_pipetas
+8,"ORGANIZADORES PARA LABORATORIO",catalogos/08.png,catalogo_organizadores_para_lab
+9,"PIPETAS TRANSFER",catalogos/09.png,catalogo_pipetas_transfer
+10,"PRUEBAS RÁPIDAS",catalogos/10.png,catalogo_pruebas_rapidas
+11,PUNTILLAS,catalogos/11.png,catalogo_puntillas
+12,"QUÍMICA CLÍNICA",catalogos/12.png,catalogo_quimica_clinica
+13,"TUBOS CAPILARES",catalogos/13.png,catalogo_tubos_capilares
+14,"TUBOS CÓNICOS",catalogos/14.png,catalogo_tubos_conicos
+15,"TUBOS Y TAPAS",catalogos/15.png,catalogo_tubos_y_tapas
+16,URIANÁLISIS,catalogos/16.png,catalogo_urianalisis
+17,INMUNOLOGÍA,catalogos/17.png,catalogo_inmunologia

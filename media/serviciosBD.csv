@@ -1,0 +1,6 @@
+idservicios,nombre,imagen,ruta
+1,"INSERTOS CONTROLES Y CALIBRADORES DE POINTE",servicios/01.png,"insertos_controladores_calibradores"
+2,"INSERTOS QUÍMICA CLÍNICA POINTE",servicios/02.png, "insertos_quimica_clinica"
+3,"APLICACIONES POINTE",servicios/03.png, "insertos_aplicaciones_pointe"
+4,"INSERTOS CONTROLES 	Y CALIBRADORES HEMATOLOGÍA CDS",servicios/04.png, "insertos_controles_calibradores_hematologia"
+5,"INSERTOS DE PRUEBAS RÁPIDAS",servicios/05.png, "insertos_pruebas_rapidas"
